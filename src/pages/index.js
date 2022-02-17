@@ -184,6 +184,9 @@ export default function Home() {
             <li>
               Nicola Guarino – Laboratory for Applied Ontology – ISTC-CNR, Italy
             </li>
+            <li>
+                Patricio de Alencar Silva – Federal Rural University of the Semi-arid Region, Brazil
+            </li>
             <li>Pavel Hruby – DXC Technology, Denmark</li>
             <li>
               Renata S. S. Guizzardi – University of Twente, The Netherlands
