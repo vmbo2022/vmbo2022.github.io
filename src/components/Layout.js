@@ -9,11 +9,11 @@ export default function Layout({ children }) {
       <Navbar />
       <StaticImage
         className="banner"
-        src="../images/banner.jpeg" 
+        src="../images/banner.jpeg"
         alt="Banner"
         layout="fullWidth"
         placeholder="blurred"
-        aspectRatio={16/5}
+        aspectRatio={16 / 5}
         // transformOptions={{fit: "cover", cropFocus: "attention"}}
       />
       <div className="content">{children}</div>

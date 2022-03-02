@@ -21,12 +21,25 @@ export default function Home() {
           <h2>Call for papers</h2>
           <h3>About</h3>
           <p>
-          The importance of modeling the essence of enterprises on a level that abstracts from operational details is increasingly recognized. Two established enterprise modeling approaches are value modeling and business ontology. Value modeling is a business modeling approach that focuses on the value objects exchanged in business networks. Business ontology provides abstract descriptions of enterprises in their business context, focusing on what is needed to create and transfer value. Research in these fields is conducted using instruments like the REA Ontology (Resources, Events, Agents), the Unified Foundational Ontology (UFO), the Business Model Canvas, the e3value toolset, the Value Delivery Modeling Language (VDML), and the Enterprise Engineering framework.
+            The importance of modeling the essence of enterprises on a level
+            that abstracts from operational details is increasingly recognized.
+            Two established enterprise modeling approaches are value modeling
+            and business ontology. Value modeling is a business modeling
+            approach that focuses on the value objects exchanged in business
+            networks. Business ontology provides abstract descriptions of
+            enterprises in their business context, focusing on what is needed to
+            create and transfer value. Research in these fields is conducted
+            using instruments like the REA Ontology (Resources, Events, Agents),
+            the Unified Foundational Ontology (UFO), the Business Model Canvas,
+            the e3value toolset, the Value Delivery Modeling Language (VDML),
+            and the Enterprise Engineering framework.
           </p>
           <p>The goal of the VMBO workshop series is two-fold:</p>
           <ul>
             <li>
-            to bring together researchers with an interest in value modeling and business ontology to present and discuss the current state of the art
+              to bring together researchers with an interest in value modeling
+              and business ontology to present and discuss the current state of
+              the art
             </li>
             <li>to identify key areas for further research</li>
           </ul>
@@ -57,7 +70,9 @@ export default function Home() {
           </ul>
           <h3 id="dates">Important Dates</h3>
           <ul>
-            <li>Paper submission: <s>8 March 2022</s> 15 March 2022 AoE</li>
+            <li>
+              Paper submission: <s>8 March 2022</s> 15 March 2022 AoE
+            </li>
             <li>Author notification: 8 April 2022</li>
             <li>Camera-ready: 18 April 2022</li>
             <li>Workshop: 6-7 June 2022</li>
@@ -185,7 +200,8 @@ export default function Home() {
               Nicola Guarino – Laboratory for Applied Ontology – ISTC-CNR, Italy
             </li>
             <li>
-                Patricio de Alencar Silva – Federal Rural University of the Semi-arid Region, Brazil
+              Patricio de Alencar Silva – Federal Rural University of the
+              Semi-arid Region, Brazil
             </li>
             <li>Pavel Hruby – DXC Technology, Denmark</li>
             <li>
