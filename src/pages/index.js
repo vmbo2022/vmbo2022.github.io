@@ -57,7 +57,7 @@ export default function Home() {
           </ul>
           <h3 id="dates">Important Dates</h3>
           <ul>
-            <li>Paper submission: 8 March 2022 AoE (strict)</li>
+            <li>Paper submission: <s>8 March 2022</s> 15 March 2022 AoE</li>
             <li>Author notification: 8 April 2022</li>
             <li>Camera-ready: 18 April 2022</li>
             <li>Workshop: 6-7 June 2022</li>
@@ -118,7 +118,7 @@ export default function Home() {
             program; the aim is to accommodate all relevant papers with
             sufficient quality.
           </p>
-          <h3 id="organization">Workshop Chairs</h3>
+          <h3 id="organization">Organization</h3>
           <ul>
             <li>
               <div>
