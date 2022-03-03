@@ -162,11 +162,10 @@ export default function Home() {
             </li>
           </ul>
 
-          <h3>Program Committee (Tentative)</h3>
+          <h3>Program Committee</h3>
           <ul>
             <li>Ben Roelens – Open University, The Netherlands</li>
             <li>Bill McCarthy – Michigan State University, USA</li>
-            <li>Birger Andersson – Stockholm University, Sweden</li>
             <li>Christian Huemer – TU Wien, Austria</li>
             <li>Cristine Griffo – Free University of Bozen-Bolzano, Italy</li>
             <li>
@@ -194,7 +193,6 @@ export default function Home() {
               Brazil
             </li>
             <li>Joris Hulstijn – Tilburg University, The Netherlands</li>
-            <li>Marten van Sinderen – University of Twente, The Netherlands</li>
             <li>Mike Bennett – Hypercube Limited, UK</li>
             <li>
               Nicola Guarino – Laboratory for Applied Ontology – ISTC-CNR, Italy
