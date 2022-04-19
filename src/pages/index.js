@@ -76,8 +76,8 @@ export default function Home() {
             <li>
               Paper submission: <s>8 March</s> <s>15 March</s> 25 March 2022 AoE
             </li>
-            <li>Author notification: 8 April 2022</li>
-            <li>Camera-ready: 18 April 2022</li>
+            <li>Author notification: <s>8 April</s> 19 April 2022</li>
+            <li>Camera-ready: <s>18 April</s> 04 May 2022</li>
             <li>Workshop: 6-7 June 2022</li>
           </ul>
           <h3 id="guidelines">Submission Guidelines</h3>
