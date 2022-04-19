@@ -71,7 +71,7 @@ export default function Home() {
           <h3 id="dates">Important Dates</h3>
           <ul>
             <li>
-              Abstract submission: 22 March 2022 AoE (mandatory)
+              Abstract submission: 22 March 2022 AoE
             </li>
             <li>
               Paper submission: <s>8 March</s> <s>15 March</s> 25 March 2022 AoE
