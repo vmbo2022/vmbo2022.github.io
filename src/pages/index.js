@@ -18,6 +18,76 @@ export default function Home() {
             </a>
             , Leuven, Belgium, 06-10 June, 2022.
           </p>
+          <h2 id="program">Program</h2>
+          <div>
+            <h4>Session 1 </h4>
+            <p>09:30-10:30</p>
+            <ul>
+              <li>Opening</li>
+              <li>
+                <div><b>Accounting Contracts in Collaboration Space</b></div>
+                <div>Jonas Sveistrup Søgaard, William E. McCarthy, Lasse Herskind, and G. Ken Holman</div>
+              </li>
+              <li>
+                <div><b>Object oriented REA using DBQUITY</b></div>
+                <div>Jesper Kiehn and Lars Hammer</div>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h4>Session 2: Ontologies</h4>
+            <p>11:00-12:30</p>
+            <ul>
+              <li>
+                <div><b>An Ontological Analysis of Justice</b></div>
+                <div>Paul Johannesson, Helena Zhemchugova, and Susanne Hanger-Kopp</div>
+              </li>
+              <li>
+                <div><b>A Preliminary Comment on Amaral’s, Sales’s, and Guizzardi’s “Towards an Ontology Network in Finance and Economics”</b></div>
+                <div>Ivars Blums and Hans Weigand</div>
+              </li>
+              <li>
+                <div><b>Information Entities and Artifact Ontology</b></div>
+                <div>Hans Weigand and Paul Johannesson</div>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h4>Session 3: Accounting Concepts</h4>
+            <p>14:00-15:30</p>
+            <ul>
+              <li>
+                <div><b>Claims Debt and Equity in REA with FIBO Extensions</b></div>
+                <div>Robert Nehmer, Michael Bennett, and Maxwell Gillmore</div>
+              </li>
+              <li>
+                <div><b>The Metaphysics of Internal Controls</b></div>
+                <div>Graham Gal</div>
+              </li>
+              <li>
+                <div><b>Inferences: Integrals and Derivativess</b></div>
+                <div>Graham Gal	</div>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h4>Session 6: Applications</h4>
+            <p>16:00-17:30</p>
+            <ul>
+              <li>
+                <div><b>Practically Applicable Enterprise Models: A Research Project Toward a User-oriented Design Method</b></div>
+                <div>Merijn van den Oever, Ben Roelens, and Dominik Bork</div>
+              </li>
+              <li>
+                <div><b>Evaluating Clinical-Care Metadata Share and its FAIRification using the REA Ontology</b></div>
+                <div>Syeda A. Sohail, Faiza A. Bukhsh, Maurice van Keulen, Johannes G. Krabbe, and Pavel Hruby</div>
+              </li>
+              <li>
+                <div><b>No-Code Application Development Using Ontology Weaver</b></div>
+                <div>Christian Vibe Scheller and Pavel Hruby</div>
+              </li>
+            </ul>
+          </div>
           <h2>Call for papers</h2>
           <h3>About</h3>
           <p>
@@ -78,7 +148,7 @@ export default function Home() {
             </li>
             <li>Author notification: <s>8 April</s> 19 April 2022</li>
             <li>Camera-ready: <s>18 April</s> 04 May 2022</li>
-            <li>Workshop: 6-7 June 2022</li>
+            <li>Workshop: 6 June 2022</li>
           </ul>
           <h3 id="guidelines">Submission Guidelines</h3>
           <p>
