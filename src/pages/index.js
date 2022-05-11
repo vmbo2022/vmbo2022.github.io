@@ -94,7 +94,7 @@ export default function Home() {
             </ul>
           </div>
           <div>
-            <h4>Session 6: Applications</h4>
+            <h4>Session 4: Applications</h4>
             <p>16:00-17:30</p>
             <ul>
               <li>
