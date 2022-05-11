@@ -31,15 +31,6 @@ export default function Navbar() {
 
             <li>
               <AnchorLink
-                to="/#guidelines"
-                title="Submission Guidelines"
-                className="stripped"
-                stripHash
-              />
-            </li>
-
-            <li>
-              <AnchorLink
                 to="/#organization"
                 title="Organization"
                 className="stripped"

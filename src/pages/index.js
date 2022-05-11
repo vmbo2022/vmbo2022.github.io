@@ -1,9 +1,17 @@
 import React from "react"
+import { Helmet } from "react-helmet"
+
 import Layout from "../components/Layout"
 
 export default function Home() {
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>VMBO 2022</title>
+        <meta name="description" content="16th International Workshop on Value Modelling and Business Ontologies" />
+        <link rel="canonical" href="http://vmbo2022.github.io" />
+      </Helmet>
       <section>
         <div>
           <h1>
@@ -18,6 +26,21 @@ export default function Home() {
             </a>
             , Leuven, Belgium, 06-10 June, 2022.
           </p>
+          <h2 id="venue">Venue</h2>
+          <p>
+          The workshop will be held at: 
+          </p>
+          <a href="https://goo.gl/maps/Foywh4bfuxkqapGQ8">
+            Room 1.15<br/>
+            Maria-Theresiacollege, Leuven Campus, KU Leuven<br/>
+            Sint-Michielsstraat 6, 3000 Leuven, Belgium
+          </a>
+
+          <h2 id="registration">Registration</h2>
+          <p>
+          You can register for VMBO 2022 at the <a href="https://caise22.ugent.be/register/">registration page</a> of the 34th International Conference on Advanced Information Systems Engineering (CAiSE 2022).
+          </p>
+          
           <h2 id="program">Program</h2>
           <div>
             <h4>Session 1 </h4>
