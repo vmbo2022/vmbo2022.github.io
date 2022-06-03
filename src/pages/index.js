@@ -52,7 +52,7 @@ export default function Home() {
                 <div>Jonas Sveistrup Søgaard, William E. McCarthy, Lasse Herskind, and G. Ken Holman</div>
               </li>
               <li>
-                <div><b>Object oriented REA using DBQUITY</b></div>
+                <div><b><a href="poster1.pdf">Object oriented REA using DBQUITY</a></b></div>
                 <div>Jesper Kiehn and Lars Hammer</div>
               </li>
             </ul>
@@ -62,15 +62,15 @@ export default function Home() {
             <p>11:00-12:30</p>
             <ul>
               <li>
-                <div><b>An Ontological Analysis of Justice</b></div>
+                <div><b><a href="paper1.pdf">An Ontological Analysis of Justice</a></b></div>
                 <div>Paul Johannesson, Helena Zhemchugova, and Susanne Hanger-Kopp</div>
               </li>
               <li>
-                <div><b>A Preliminary Comment on Amaral’s, Sales’s, and Guizzardi’s “Towards an Ontology Network in Finance and Economics”</b></div>
+                <div><b><a href="short4.pdf">A Preliminary Comment on Amaral’s, Sales’s, and Guizzardi’s “Towards an Ontology Network in Finance and Economics”</a></b></div>
                 <div>Ivars Blums and Hans Weigand</div>
               </li>
               <li>
-                <div><b>Information Entities and Artifact Ontology</b></div>
+                <div><b><a href="short5.pdf">Information Entities and Artifact Ontology</a></b></div>
                 <div>Hans Weigand and Paul Johannesson</div>
               </li>
             </ul>
@@ -80,15 +80,15 @@ export default function Home() {
             <p>14:00-15:30</p>
             <ul>
               <li>
-                <div><b>Claims Debt and Equity in REA with FIBO Extensions</b></div>
+                <div><b><a href="short1.pdf">Claims Debt and Equity in REA with FIBO Extensions</a></b></div>
                 <div>Robert Nehmer, Michael Bennett, and Maxwell Gillmore</div>
               </li>
               <li>
-                <div><b>The Metaphysics of Internal Controls</b></div>
+                <div><b><a href="short2.pdf">The Metaphysics of Internal Controls</a></b></div>
                 <div>Graham Gal</div>
               </li>
               <li>
-                <div><b>Inferences: Integrals and Derivativess</b></div>
+                <div><b><a href="short3.pdf">Inferences: Integrals and Derivatives</a></b></div>
                 <div>Graham Gal	</div>
               </li>
             </ul>
@@ -98,15 +98,15 @@ export default function Home() {
             <p>16:00-17:30</p>
             <ul>
               <li>
-                <div><b>Practically Applicable Enterprise Models: A Research Project Toward a User-oriented Design Method</b></div>
+                <div><b><a href="paper2.pdf">Practically Applicable Enterprise Models: A Research Project Toward a User-oriented Design Method</a></b></div>
                 <div>Merijn van den Oever, Ben Roelens, and Dominik Bork</div>
               </li>
               <li>
-                <div><b>Evaluating Clinical-Care Metadata Share and its FAIRification using the REA Ontology</b></div>
+                <div><b><a href="paper3.pdf">Evaluating Clinical-Care Metadata Share and its FAIRification using the REA Ontology</a></b></div>
                 <div>Syeda A. Sohail, Faiza A. Bukhsh, Maurice van Keulen, Johannes G. Krabbe, and Pavel Hruby</div>
               </li>
               <li>
-                <div><b>No-Code Application Development Using Ontology Weaver</b></div>
+                <div><b><a href="poster2.pdf">No-Code Application Development Using Ontology Weaver</a></b></div>
                 <div>Christian Vibe Scheller and Pavel Hruby</div>
               </li>
             </ul>
