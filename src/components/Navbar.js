@@ -13,17 +13,17 @@ export default function Navbar() {
           <ul>
             <li>
               <AnchorLink
-                to="/#program"
-                title="Program"
+                to="/#proceedings"
+                title="Proceedings"
                 className="stripped"
                 stripHash
               />
             </li>
-
+            
             <li>
               <AnchorLink
-                to="/#dates"
-                title="Important Dates"
+                to="/#program"
+                title="Program"
                 className="stripped"
                 stripHash
               />

@@ -26,6 +26,9 @@ export default function Home() {
             </a>
             , Leuven, Belgium, 06-10 June, 2022.
           </p>
+          <h2 id="proceedings">Proceedings</h2>
+          <p>Proceedings are openly available at <a href="http://ceur-ws.org/Vol-3155/">http://ceur-ws.org/Vol-3155/</a> </p>
+          
           <h2 id="venue">Venue</h2>
           <p>
           The workshop will be held at: 
@@ -52,7 +55,7 @@ export default function Home() {
                 <div>Jonas Sveistrup Søgaard, William E. McCarthy, Lasse Herskind, and G. Ken Holman</div>
               </li>
               <li>
-                <div><b><a href="poster1.pdf">Object oriented REA using DBQUITY</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/poster1.pdf" target="_blank" rel="noreferrer">Object oriented REA using DBQUITY</a></b></div>
                 <div>Jesper Kiehn and Lars Hammer</div>
               </li>
             </ul>
@@ -62,15 +65,15 @@ export default function Home() {
             <p>11:00-12:30</p>
             <ul>
               <li>
-                <div><b><a href="paper1.pdf">An Ontological Analysis of Justice</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/paper1.pdf" target="_blank" rel="noreferrer">An Ontological Analysis of Justice</a></b></div>
                 <div>Paul Johannesson, Helena Zhemchugova, and Susanne Hanger-Kopp</div>
               </li>
               <li>
-                <div><b><a href="short4.pdf">A Preliminary Comment on Amaral’s, Sales’s, and Guizzardi’s “Towards an Ontology Network in Finance and Economics”</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/short4.pdf" target="_blank" rel="noreferrer">A Preliminary Comment on Amaral’s, Sales’s, and Guizzardi’s “Towards an Ontology Network in Finance and Economics”</a></b></div>
                 <div>Ivars Blums and Hans Weigand</div>
               </li>
               <li>
-                <div><b><a href="short5.pdf">Information Entities and Artifact Ontology</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/short5.pdf" target="_blank" rel="noreferrer">Information Entities and Artifact Ontology</a></b></div>
                 <div>Hans Weigand and Paul Johannesson</div>
               </li>
             </ul>
@@ -80,15 +83,15 @@ export default function Home() {
             <p>14:00-15:30</p>
             <ul>
               <li>
-                <div><b><a href="short1.pdf">Claims Debt and Equity in REA with FIBO Extensions</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/short1.pdf" target="_blank" rel="noreferrer">Claims Debt and Equity in REA with FIBO Extensions</a></b></div>
                 <div>Robert Nehmer, Michael Bennett, and Maxwell Gillmore</div>
               </li>
               <li>
-                <div><b><a href="short2.pdf">The Metaphysics of Internal Controls</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/short2.pdf" target="_blank" rel="noreferrer">The Metaphysics of Internal Controls</a></b></div>
                 <div>Graham Gal</div>
               </li>
               <li>
-                <div><b><a href="short3.pdf">Inferences: Integrals and Derivatives</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/short3.pdf" target="_blank" rel="noreferrer">Inferences: Integrals and Derivatives</a></b></div>
                 <div>Graham Gal	</div>
               </li>
             </ul>
@@ -98,15 +101,15 @@ export default function Home() {
             <p>16:00-17:30</p>
             <ul>
               <li>
-                <div><b><a href="paper2.pdf">Practically Applicable Enterprise Models: A Research Project Toward a User-oriented Design Method</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/paper2.pdf" target="_blank" rel="noreferrer">Practically Applicable Enterprise Models: A Research Project Toward a User-oriented Design Method</a></b></div>
                 <div>Merijn van den Oever, Ben Roelens, and Dominik Bork</div>
               </li>
               <li>
-                <div><b><a href="paper3.pdf">Evaluating Clinical-Care Metadata Share and its FAIRification using the REA Ontology</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/paper3.pdf" target="_blank" rel="noreferrer">Evaluating Clinical-Care Metadata Share and its FAIRification using the REA Ontology</a></b></div>
                 <div>Syeda A. Sohail, Faiza A. Bukhsh, Maurice van Keulen, Johannes G. Krabbe, and Pavel Hruby</div>
               </li>
               <li>
-                <div><b><a href="poster2.pdf">No-Code Application Development Using Ontology Weaver</a></b></div>
+                <div><b><a href="http://ceur-ws.org/Vol-3155/poster2.pdf" target="_blank" rel="noreferrer">No-Code Application Development Using Ontology Weaver</a></b></div>
                 <div>Christian Vibe Scheller and Pavel Hruby</div>
               </li>
             </ul>
@@ -204,8 +207,7 @@ export default function Home() {
             <a
               href="https://easychair.org/conferences/?conf=caise22"
               class="button"
-              target="_blank"
-              rel="noreferrer"
+              target="_blank" rel="noreferrer"
             >
               Submit a paper
             </a>
@@ -313,8 +315,7 @@ export default function Home() {
             <li>
               <a
                 href="https://vmbo2021.events.unibz.it/"
-                target="_blank"
-                rel="noreferrer"
+                target="_blank" rel="noreferrer"
               >
                 VMBO 2021
               </a>
@@ -323,8 +324,7 @@ export default function Home() {
             <li>
               <a
                 href="https://vmbo2020.ugent.be/"
-                target="_blank"
-                rel="noreferrer"
+                target="_blank" rel="noreferrer"
               >
                 VMBO 2020
               </a>
@@ -333,8 +333,7 @@ export default function Home() {
             <li>
               <a
                 href="https://vmbo2019.blogs.dsv.su.se/"
-                target="_blank"
-                rel="noreferrer"
+                target="_blank" rel="noreferrer"
               >
                 VMBO 2019
               </a>
@@ -343,8 +342,7 @@ export default function Home() {
             <li>
               <a
                 href="https://vmbo2018.e3value.com/"
-                target="_blank"
-                rel="noreferrer"
+                target="_blank" rel="noreferrer"
               >
                 VMBO 2018
               </a>
@@ -353,8 +351,7 @@ export default function Home() {
             <li>
               <a
                 href="https://www.list.lu/en/conference/vmbo2017/"
-                target="_blank"
-                rel="noreferrer"
+                target="_blank" rel="noreferrer"
               >
                 VMBO 2017
               </a>
@@ -364,8 +361,7 @@ export default function Home() {
             <li>
               <a
                 href="https://vmbo2015.blogs.dsv.su.se/"
-                target="_blank"
-                rel="noreferrer"
+                target="_blank" rel="noreferrer"
               >
                 VMBO 2015
               </a>
